@@ -11,6 +11,9 @@
 img {
     max-width: 100%;
 }
+body {
+    height: 1500px;
+}
 /*/Navbar Css Start */
 .navbar {
     padding-top: 20px;
@@ -83,12 +86,9 @@ span {
 .header-img{
     width: 40%;
 }
-.header img{
-}
 .middle-section{
     padding-top: 40px;
 }
-.middle-row{}
 .middle-details{
     text-align: center;
 }
@@ -107,6 +107,45 @@ span {
     justify-content: space-between;
     padding-top: 20px;
 }
-.middle-logo img {
-}
 /* Header Css end */
+/* Card Css Start */
+.card-section {
+    padding-top: 60px;
+}
+.card-details {
+    text-align: center;
+}
+.third-heading {
+    color: #4d4d4d;
+    font-weight: 600;
+}
+.third-description {
+    font-size: 1rem;
+    font-weight: 300;
+    color: #4d4d4d;
+    margin: 20px 0;
+}
+.card-row {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.item {
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    padding: 12px 24px;
+    border-radius: 6px;
+}
+.item h3{
+    color: #4d4d4d;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.item p{
+    line-height: 1.5;
+    font-size: 1rem;
+    font-weight: 300;
+    color: #4d4d4d;
+    margin: 20px 0;
+}
+/* Card Css End */
