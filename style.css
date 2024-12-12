@@ -85,4 +85,28 @@ span {
 }
 .header img{
 }
+.middle-section{
+    padding-top: 40px;
+}
+.middle-row{}
+.middle-details{
+    text-align: center;
+}
+.secondary-heading{
+    color: #4d4d4d;
+    font-weight: 600;
+}
+.secondary-description{
+    font-size: 1rem;
+    font-weight: 300;
+    color: #4d4d4d;
+    margin: 20px 0;
+}
+.middle-logo {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.middle-logo img {
+}
 /* Header Css end */
