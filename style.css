@@ -11,9 +11,6 @@
 img {
     max-width: 100%;
 }
-body {
-    height: 1500px;
-}
 /*/Navbar Css Start */
 .navbar {
     padding-top: 20px;
@@ -51,7 +48,7 @@ body {
     background-color: #4caf4f;
     color: #fff !important;
     display: inline-block !important;
-    padding: 0.6rem 1.6rem;
+    padding: 0.8rem 1.6rem;
     border-radius: 0.3rem;
     font-size: 1rem;
 }
@@ -149,3 +146,34 @@ span {
     margin: 20px 0;
 }
 /* Card Css End */
+/* Part css start */
+.part-section {
+    padding: 70px;
+}
+.part-row{
+    display: flex;
+    justify-content: center;
+}
+.part-img{
+    width: 40%;
+}
+.part-img img{
+    width: 300px;
+}
+.part-details{
+    width: 60%;
+    padding-top: 10px;
+}
+.part-details h3{
+    color: #4d4d4d;
+    font-weight: 600;
+    font-size: 32px;
+}
+.part-details p{
+    line-height: 1.5;
+    font-size: 1rem;
+    font-weight: 300;
+    color: #4d4d4d;
+    margin: 20px 0;
+}
+/* Part css End */
