@@ -135,20 +135,20 @@ span {
 }
 .item h3{
     color: #4d4d4d;
-    font-weight: 700;
+    font-weight: 500;
     margin-top: 10px;
 }
 .item p{
     line-height: 1.5;
     font-size: 1rem;
-    font-weight: 300;
+    font-weight: 200;
     color: #4d4d4d;
     margin: 20px 0;
 }
 /* Card Css End */
 /* Part css start */
 .part-section {
-    padding: 70px;
+    padding-top: 70px;
 }
 .part-row{
     display: flex;
@@ -166,14 +166,46 @@ span {
 }
 .part-details h3{
     color: #4d4d4d;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 32px;
 }
 .part-details p{
     line-height: 1.5;
     font-size: 1rem;
-    font-weight: 300;
+    font-weight: 200;
     color: #4d4d4d;
     margin: 20px 0;
 }
 /* Part css End */
+/* Com Css Start */
+.com-section {
+    padding-top: 90px;
+}
+.com-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.com-img {
+    width: 40%;
+}
+.com-img img {
+    width: 400px;
+}
+.com-more {
+    width: 60%;
+    padding-top: 10px;
+}
+.com-more h2 {
+    color: #4d4d4d;
+    font-weight: 500;
+    font-size: 32px;
+}
+.com-more p {
+    line-height: 1.5;
+    font-size: 1rem;
+    font-weight: 200;
+    color: #4d4d4d;
+    margin: 20px 0;
+}
+/* Com Css end */
