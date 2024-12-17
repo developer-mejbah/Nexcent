@@ -309,3 +309,17 @@ span {
     color: #4caf4f;
 }
 /* BOx css End */
+/* last Section start */
+.last-section{
+    padding-top: 70px;
+}
+.last-more{
+    text-align: center;
+}
+.last-more h1 {
+    color: #4d4d4d;
+    font-weight: 500;
+    font-size: 52px;
+    margin-bottom: 20px;
+}
+/* last Section end */
