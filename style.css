@@ -253,3 +253,59 @@ span {
     color: #4caf4f;
 }
 /* T css End */
+/* BOx css start */
+.box-section {
+ padding-top: 60px;
+}
+.box-details {
+    text-align: center;
+}
+.box-details h2 {
+    color: #4d4d4d;
+    font-weight: 500;
+    font-size: 32px;
+}
+.box-details p {
+    line-height: 1.5;
+    font-size: 1rem;
+    font-weight: 200;
+    color: #4d4d4d;
+    margin: 20px 0;
+}
+.box-img {
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 28px;
+}
+.box-img img {
+    width: 31.90%;
+}
+.box-more {
+    margin-top: -90px;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.box-item {
+    background-color: #f5f7fa;
+    width: 26%;
+    padding: 1.6rem 1.2rem;
+    border-radius: 0.8rem;
+    box-shadow: 0 0 12px rgba(0,0,0,0.3);
+    text-align: center;
+}
+.box-item p {
+    line-height: 1.5;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #4d4d4d;
+}
+.box-item a {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #4caf4f;
+}
+/* BOx css End */
