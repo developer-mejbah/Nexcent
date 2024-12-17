@@ -209,3 +209,47 @@ span {
     margin: 20px 0;
 }
 /* Com Css end */
+/* T css Start */
+.t-section {
+    margin-top: 60px;
+    background-color: #f5f7fa;
+    height: 53vh;
+}
+.t-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding-top: 20px;
+}
+.t-img {
+    width: 30%;
+}
+.t-img img {
+    width: 300px;
+}
+.t-more {
+    width: 70%;
+}
+
+.t-head p {
+    line-height: 1.5;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #4d4d4d;
+    margin: 20px 0;
+}
+.t-head h4 {
+    color: #4caf4f;
+}
+
+.t-img-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.t-img-2 a {
+    text-decoration: none;
+    color: #4caf4f;
+}
+/* T css End */
