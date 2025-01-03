@@ -342,8 +342,6 @@ body {
     display: flex;
     width: 40%;
 }
-.footer-img {
-}
 .footer-img img {
     width: 30px;
 }
@@ -377,8 +375,6 @@ body {
 .input::placeholder{
     color: #fff;
     font-size: 12px;
-}
-.img-details {
 }
 .img-details ul {
     list-style-type: none;
