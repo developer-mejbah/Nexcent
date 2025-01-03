@@ -349,11 +349,14 @@ body {
     width: 20%;
     margin-top: 20px;
 }
+.footer-menu h5 {
+    font-size: 21px;
+}
 .footer-menu ul {
     list-style-type: none;
 }
 .footer-menu ul li {
-    margin-left: -40px;
+    margin-left: -10px;
 }
 .footer-menu ul li a {
     display: inline-block;
@@ -395,4 +398,34 @@ body {
     line-height: 40px;
     border-radius: 50%;
     transition: 0.5s;
+}
+.multiflex-section {
+    margin-top: 50px;
+    background-color: #f5f7fa;
+    height: 40vh;
+}
+.multiflex-row{
+    display: flex;
+    align-items: center;
+}
+.multiflex-1 {
+    width: 70%;
+    margin-top: 70px;
+}
+.multiflex-2 {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 100px;
+    width: 40%;
+}
+.multi-img-head-row {
+    display: flex;
+    gap: 10px;
+}
+.multi-img img {
+    width: 30px;
+}
+.margin {
+    margin-top: 50px;
 }
